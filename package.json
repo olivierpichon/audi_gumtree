@@ -1,0 +1,14 @@
+{
+  "name": "audi_gumtree",
+  "version": "1.0.0",
+  "description": "Upload Audi Ad to Gumtree automatically",
+  "main": "index.js",
+  "author": "Olivier Pichon",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
